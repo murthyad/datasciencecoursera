@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Scientist Toolbox Assignment Jan 2016
+Coursera Data Scientist Toolkit Assignment Jan 2016
